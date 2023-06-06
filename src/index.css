@@ -11,6 +11,10 @@
   display: none;
 }
 
+h1 {
+  display: none;
+}
+
 i {
   font-style: normal;
   font-family: 'Oswald', sans-serif;
