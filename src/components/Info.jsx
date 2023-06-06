@@ -32,7 +32,7 @@ export default function Info() {
           <i className="gcolor text-sm md:text-base lg:text-xl">Base Unit</i>
         </div>
       </div>
-      <div className="mt-4">
+      <div className="mt-4 overflow-x-scroll">
         <table className="w-[100%]">
         <tbody className="">
         {data &&
